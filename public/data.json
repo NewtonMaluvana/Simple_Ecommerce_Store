@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1,
+    "title": "Samsung s23 ultra",
+    "price": 31000.0,
+    "catergory": "Electronic",
+    "Status": "best seller",
+    "img": "/images/samsung.png",
+    "quantity": 1
+  },
+  {
+    "id": 2,
+    "title": "Jordan Shoe",
+    "price": 2300.0,
+    "catergory": "Shoe",
+    "Status": "best seller",
+    "img": "/images/Jordan.png",
+    "quantity": 1
+  },
+  {
+    "id": 3,
+    "title": "Airforce 1.07",
+    "price": 2200.0,
+    "catergory": "Shoe",
+    "Status": "best seller",
+    "img": "/images/airforce.png",
+    "quantity": 1
+  },
+  {
+    "id": 4,
+    "title": "Angeles Jacket Black",
+    "price": 1200.0,
+    "catergory": "Clothing",
+    "Status": "best seller",
+    "img": "/images/Angeles_Jacket.png",
+    "quantity": 1
+  },
+  {
+    "id": 5,
+    "title": "Bulls Red Hoodie",
+    "price": 750.0,
+    "catergory": "Clothing",
+    "Status": "best seller",
+    "img": "/images/bulls_hoodie.png",
+    "quantity": 1
+  },
+  {
+    "id": 6,
+    "title": "Headphone",
+    "price": 2300.0,
+    "catergory": "Electronic",
+    "Status": "best seller",
+    "img": "/images/headphone2.png",
+    "quantity": 1
+  },
+  {
+    "id": 7,
+    "title": "Huawei Laptop ",
+    "price": 7600.0,
+    "catergory": "Electronic",
+    "Status": "best seller",
+    "img": "/images/laptop.png",
+    "quantity": 1
+  },
+  {
+    "id": 8,
+    "title": "Sony Headphones Black",
+    "price": 845.0,
+    "catergory": "Electronic",
+    "Status": "best seller",
+    "img": "/images/headphone.png",
+    "quantity": 1
+  },
+  {
+    "id": 9,
+    "title": "NBA Jacket",
+    "price": 1845.0,
+    "catergory": "Clothing",
+    "Status": "normal",
+    "img": "/images/nba_jacket.png",
+    "quantity": 1
+  },
+  {
+    "id": 10,
+    "title": "Oakland Jacket",
+    "price": 1845.0,
+    "catergory": "Clothing",
+    "Status": "best seller",
+    "img": "/images/oakland_jacket.png",
+    "quantity": 1
+  },
+  {
+    "id": 11,
+    "title": "Watch pink",
+    "price": 350.0,
+    "catergory": "Electronic",
+    "Status": "normal",
+    "img": "/images/watch.png",
+    "quantity": 1
+  },
+  {
+    "id": 12,
+    "title": "Brook Short",
+    "price": 250.0,
+    "catergory": "Clothing",
+    "Status": "normal",
+    "img": "/images/brook_short.png",
+    "quantity": 1
+  },
+  {
+    "id": 13,
+    "title": "Iphone 14 Pro max ",
+    "price": 34050.0,
+    "catergory": "Electronic",
+    "Status": "best seller",
+    "img": "/images/iphone.png",
+    "quantity": 1
+  },
+  {
+    "id": 14,
+    "title": "Laker Short ",
+    "price": 150.0,
+    "catergory": "Clothing",
+    "Status": "normal",
+    "img": "/images/laker_short.png",
+    "quantity": 1
+  },
+  {
+    "id": 15,
+    "title": "Nike Airforce  1.07 ",
+    "price": 2250.0,
+    "catergory": "Shoe",
+    "Status": "normal",
+    "img": "/images/airforce2.png",
+    "quantity": 1
+  },
+  {
+    "id": 16,
+    "title": "Stylish Watch",
+    "price": 350.0,
+    "catergory": "Electronic",
+    "Status": "normal",
+    "img": "/images/watch2.png",
+    "quantity": 1
+  }
+]
